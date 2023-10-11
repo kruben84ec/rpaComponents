@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wM/GU69hmriUz9MzI6KBbw5eOuVBlz+5i+n3PZlqvmXQ61wDo6Bd8SFMojwhBlMpuM0s+5rpq6VoFml1SXuHzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jay\\Coding\\diners\\RPA_Fraudes_CDI\\auxiliares-jpincay\\RiesgoPichinchaQuoteParser\\RiesgoPichinchaQuoteParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jay\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

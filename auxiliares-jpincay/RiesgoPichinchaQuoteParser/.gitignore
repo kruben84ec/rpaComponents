@@ -1,0 +1,10 @@
+.vs
+.vscode
+RiesgoPichinchaQuoteParser/*.csproj.user
+RiesgoPichinchaQuoteParser/bin/
+RiesgoPichinchaQuoteParser/release/.pdb
+RiesgoPichinchaQuoteParser/obj/*
+RiesgoPichinchaQuoteParser/obj/Debug/*
+RiesgoPichinchaQuoteParser/obj/publish/*
+/obj/Release/*
+RiesgoPichinchaQuoteParser/Properties/

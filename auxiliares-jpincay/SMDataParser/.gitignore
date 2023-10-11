@@ -1,0 +1,9 @@
+.vs
+.vscode
+bin/
+release/.pdb
+obj/*
+obj/Debug/*
+obj/publish/*
+obj/Release/*
+Properties/

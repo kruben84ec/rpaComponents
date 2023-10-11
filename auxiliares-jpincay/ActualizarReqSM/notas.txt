@@ -1,0 +1,5 @@
+crear metodo que enliste los frames cuando se de un error (catch)
+
+cuando se de error, que vuelva a ejecutar los pasos desde la busqueda (refrescando la pestana del navegador)
+
+probar fluent wait en Locator.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwUDqPjcSPAKANaJVNm44pkvJB/YPLylRpdj0kA/FVZWP/PZ2F81xquVKvAvFIkP55LiGexQUnXV2+E+lVnKiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jay\\Coding\\diners\\ticketfinder\\ticketfinder\\TicketFinder\\TicketFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.11\\microsoft.netcore.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

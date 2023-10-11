@@ -1,0 +1,17 @@
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\bin\Release\net6.0\IdAndTicknumberToTexT.exe
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\bin\Release\net6.0\IdAndTicknumberToTexT.deps.json
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\bin\Release\net6.0\IdAndTicknumberToTexT.runtimeconfig.json
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\bin\Release\net6.0\IdAndTicknumberToTexT.dll
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\bin\Release\net6.0\IdAndTicknumberToTexT.pdb
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.csproj.AssemblyReference.cache
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.csproj.ResolveComReference.cache
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.AssemblyInfoInputs.cache
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.AssemblyInfo.cs
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.dll
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\refint\IdAndTicknumberToTexT.dll
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.pdb
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\IdAndTicknumberToTexT.genruntimeconfig.cache
+C:\Users\Jay\Coding\diners\TicknumberToTexT\TicknumberToTexT\obj\Release\net6.0\ref\IdAndTicknumberToTexT.dll

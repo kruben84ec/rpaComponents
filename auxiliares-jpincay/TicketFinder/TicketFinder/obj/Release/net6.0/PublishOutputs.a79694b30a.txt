@@ -1,0 +1,5 @@
+C:\Users\Jay\Desktop\Diners\macro-noticket\ticketfinder-release\TicketFinder.exe
+C:\Users\Jay\Desktop\Diners\macro-noticket\ticketfinder-release\TicketFinder.dll
+C:\Users\Jay\Desktop\Diners\macro-noticket\ticketfinder-release\TicketFinder.deps.json
+C:\Users\Jay\Desktop\Diners\macro-noticket\ticketfinder-release\TicketFinder.runtimeconfig.json
+C:\Users\Jay\Desktop\Diners\macro-noticket\ticketfinder-release\TicketFinder.pdb

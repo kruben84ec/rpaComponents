@@ -1,0 +1,2 @@
+C:\Users\Jay\Coding\diners\ticketfinder\release\TicketFinder.pdb
+C:\Users\Jay\Coding\diners\ticketfinder\release\TicketFinder.exe

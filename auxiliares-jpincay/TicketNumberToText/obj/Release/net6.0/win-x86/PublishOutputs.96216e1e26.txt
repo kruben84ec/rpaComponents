@@ -1,0 +1,2 @@
+C:\Users\Jay\Coding\diners\TicknumberToTexT\release\IdAndTicketNumberToTexT.pdb
+C:\Users\Jay\Coding\diners\TicknumberToTexT\release\IdAndTicketNumberToTexT.exe

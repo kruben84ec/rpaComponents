@@ -1,0 +1,7 @@
+.vs
+bin/
+obj/*
+obj/Debug/*
+obj/publish/*
+obj/Release/*
+Properties/
